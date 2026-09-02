@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pth
+*.png
+*.pdf
+max_score.txt
+training_progress.png
+snake_model.pth
+snake_model_best.pth
+.tmp_pdf/
+.idea/
+.vscode/
+.workbuddy/
+demo_out.log
